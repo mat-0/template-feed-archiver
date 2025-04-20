@@ -7,5 +7,3 @@
 1. Copy the repo using the template
 2. Update the hourly.yml file to include the url and output file
 3. Profit.
-
-
